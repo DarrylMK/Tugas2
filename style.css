@@ -14,3 +14,13 @@
   .footer1, .footer2 {
     border-right: 2px solid #121212;
   }
+  h1{
+    font-size: 110px; font-weight:bold;
+  }
+  h3{
+    font-size: 50px;
+    font-weight: bold;
+  }
+  h6{
+    font-size: 30px;
+  }
